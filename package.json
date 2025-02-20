@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "homepage": "https://deyshin.github.io/Murder-Bittorrent-Deploy-Visualizer/",
   "scripts": {
-    "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
