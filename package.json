@@ -1,6 +1,7 @@
 {
   "name": "murder-bittorrent-viz",
   "version": "1.0.0",
+  "homepage": "https://deyshin.github.io/Murder-Bittorrent-Deploy-Visualizer/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
